@@ -37,7 +37,7 @@
 
   .column {
     font-size: 14px;
-    transition-property: font-size ease
+    transition-property: font-size ease;
     transition-duration: .5s;
   }
   
